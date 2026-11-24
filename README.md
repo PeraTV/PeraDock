@@ -2,13 +2,17 @@
 
 Dock para Windows x64 com launcher e barra lateral opcional.
 
-[Baixar PeraDock](https://github.com/PeraTV/PeraDock/raw/refs/heads/main/downloads/PeraDock-Windows-x64-r8.zip) · [Lançamentos](https://github.com/PeraTV/PeraDock/releases)
+[Baixar PeraDock](https://github.com/PeraTV/PeraDock/raw/refs/heads/main/downloads/PeraDock.zip) · [Lançamentos](https://github.com/PeraTV/PeraDock/releases)
 
 Extraia o ZIP, feche a versão anterior e abra `PeraDock.exe`. O ZIP inclui o código-fonte e as instruções de compilação.
+
+O PeraDock é um projeto independente e o executável não tem assinatura digital. O Windows pode exibir um aviso do SmartScreen ao abrir. Esse alerta, por si só, não indica que o arquivo seja malicioso.
 
 - **Configurações → Geral → Verificar atualizações** consulta a versão mais recente.
 - **Configurações → Dock** permite ocultar a Dock 1, devolver a barra de tarefas ao Windows e ajustar o contorno.
 - **Dock 2** permite adicionar separadores pelo menu de contexto de um aplicativo.
+- As duas docks podem ser posicionadas em qualquer uma das quatro bordas da tela. Segure o botão do meio do mouse e arraste a dock até a borda desejada.
+- Arraste os atalhos para reorganizá-los. Os nomes dos apps ficam desativados por padrão e podem ser ativados separadamente nas configurações de cada dock.
 
 ## PeraDock em ação
 
@@ -40,4 +44,3 @@ Extraia o ZIP, feche a versão anterior e abra `PeraDock.exe`. O ZIP inclui o c�
 ![Aba Geral com a opção Verificar atualizações](media/geral.webp)
 
 </details>
-
