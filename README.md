@@ -2,7 +2,7 @@
 
 Dock para Windows x64 com launcher e barra lateral opcional.
 
-[Baixar PeraDock R8 para Windows](https://github.com/PeraTV/PeraDock/raw/refs/heads/main/downloads/PeraDock-Windows-x64-r8.zip) · [Lançamentos](https://github.com/PeraTV/PeraDock/releases)
+[Baixar PeraDock](https://github.com/PeraTV/PeraDock/raw/refs/heads/main/downloads/PeraDock-Windows-x64-r8.zip) · [Lançamentos](https://github.com/PeraTV/PeraDock/releases)
 
 Extraia o ZIP, feche a versão anterior e abra `PeraDock.exe`. O ZIP inclui o código-fonte e as instruções de compilação.
 
@@ -17,8 +17,6 @@ Extraia o ZIP, feche a versão anterior e abra `PeraDock.exe`. O ZIP inclui o c�
 ### Efeito Gênio ao minimizar
 
 ![Uma janela do Explorador encolhe e desliza até a Dock 1 com o efeito Gênio](media/efeito-genio.gif)
-
-[Ver o clipe completo em MP4](media/demonstracao.mp4)
 
 ### Launcher e painéis
 
@@ -43,4 +41,3 @@ Extraia o ZIP, feche a versão anterior e abra `PeraDock.exe`. O ZIP inclui o c�
 
 </details>
 
-Baseado no [ArcDockWin](https://github.com/claudsondouglas/ArcDockWin), de claudsondouglas. A licença MIT está na pasta de código-fonte do pacote.
