@@ -18,6 +18,32 @@ O PeraDock é um projeto independente e o executável não tem assinatura digita
 
 ## PeraDock em ação
 
+### Configurações na R10
+
+| Tema Preto | Tema Branco |
+| --- | --- |
+| ![Aba Dock no tema Preto, com posição e tamanho dos ícones da Dock 1](media/dock-1.webp) | ![Aba Geral no tema Branco, com seletor Preto e Branco e botão Verificar atualizações](media/geral.webp) |
+
+<details>
+<summary>Ver as abas Animações, Barra do topo e Dock 2</summary>
+
+| Animações | Barra do topo |
+| --- | --- |
+| ![Aba Animações no tema Preto, com os efeitos Gênio e Escala](media/animacoes.webp) | ![Aba Barra do topo no tema Branco, com posição, ordem e visibilidade dos módulos](media/barra-topo.webp) |
+
+![Configurações da Dock 2 no tema Branco, com posição, nomes dos aplicativos, cor e transparência do fundo](media/dock-2.webp)
+
+</details>
+
+### Dock 2 e Bandeja
+
+| Nome do aplicativo na Dock 2 | Bandeja da barra do topo |
+| --- | --- |
+| <img src="media/dock-2-nome.webp" width="170" alt="Dock 2 vertical com o cartão arredondado JAGUAR LAB ao lado do ícone"> | <img src="media/bandeja.webp" width="243" alt="Painel Bandeja com ícones de aplicativos e a opção Ícones coloridos"> |
+
+
+### Área de trabalho
+
 ![Área de trabalho com a Dock 1 na parte inferior, a Dock 2 à esquerda e o painel de configurações aberto](media/area-de-trabalho.webp)
 
 ### Efeito Gênio ao minimizar
@@ -31,18 +57,3 @@ O PeraDock é um projeto independente e o executável não tem assinatura digita
 | Central de Controle | Desempenho |
 | --- | --- |
 | ![Controles de Wi-Fi, Bluetooth, energia, brilho e som](media/central.webp) | ![Painel de desempenho com indicadores de CPU, memória e GPU](media/desempenho.webp) |
-
-<details>
-<summary>Ver as telas de configurações</summary>
-
-| Dock 1 | Dock 2 |
-| --- | --- |
-| ![Configurações de tamanho, contorno e comportamento da Dock 1](media/dock-1.webp) | ![Configurações de posição, transparência e ícones da Dock 2](media/dock-2.webp) |
-
-| Animações | Barra do topo |
-| --- | --- |
-| ![Opção de animação ao minimizar e seleção do efeito Gênio](media/animacoes.webp) | ![Ordem, posição e visibilidade dos módulos da barra do topo](media/barra-topo.webp) |
-
-![Aba Geral com a opção Verificar atualizações](media/geral.webp)
-
-</details>
